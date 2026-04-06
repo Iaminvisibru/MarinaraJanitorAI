@@ -38,3 +38,5 @@ FILES IN THIS FOLDER:
 
 SUPPORT:
   @iaminvisibru on discord
+
+Added support for linux users. just download the whole directory and run the .sh file
